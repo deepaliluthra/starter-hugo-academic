@@ -12,22 +12,7 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+
   - block: experience
     content:
       title: Experience
@@ -40,27 +25,28 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Ph.D. Candidate
+          company: Oklahoma State University
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Stillwater, OK
+          date_start: '2017-08-08'
+          date_end: '2023-05-12'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              
+              Host-pathogen interactions of Pseudomonas aeruginosa with lung epithelial cells.
+              
+              
+        - title: Senior Research Fellow
+          company: Institute of Microbial Technology, CSIR, India
           company_url: ''
           company_logo: org-x
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2017-06-01'
+          date_end: '2016-05-01'
+          description: Characterization of ST6GalNAc sialyltransferases from E. coli for possible use in the synthesis of the clinically relevant human milk oligosaccharide, Disialyllacto-N-tetraose (DSLNT)
+          
+          
     design:
       columns: '2'
   - block: accomplishments
