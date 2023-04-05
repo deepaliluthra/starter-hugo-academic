@@ -68,8 +68,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Pseudomonas
+          tag: Pseudomonas
         - name: Other
           tag: Demo
     design:
@@ -95,7 +95,7 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
+      columns: '1'
       view: card
   - block: collection
     content:
@@ -109,7 +109,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
+      columns: '1'
       view: citation
   - block: collection
     id: talks
