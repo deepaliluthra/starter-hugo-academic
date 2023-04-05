@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Deepali Luthra is a Microbiologist (graduating with Ph.D. in May 2023) from Oklahoma State University. Her research interests include host-pathogen interactions of Pseudomonas aeruginosa with lung epithelial cells. She is actively looking for a position in industry and academia.
 {style="text-align: justify;"}
