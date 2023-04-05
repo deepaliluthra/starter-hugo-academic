@@ -28,7 +28,7 @@ sections:
         - title: Ph.D. Candidate
           company: Oklahoma State University
           company_url: ''
-          company_logo: org-gc
+          company_logo: osu_logo
           location: Stillwater, OK
           date_start: '2017-08-08'
           date_end: '2023-05-12'
@@ -40,7 +40,7 @@ sections:
         - title: Senior Research Fellow
           company: Institute of Microbial Technology, CSIR, India
           company_url: ''
-          company_logo: org-x
+          company_logo: IMTECH_logo
           location: California
           date_start: '2017-06-01'
           date_end: '2016-05-01'
