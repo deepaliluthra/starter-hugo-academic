@@ -73,3 +73,10 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: rose
+  font_size: M
